@@ -30,9 +30,6 @@ class Button(
 
     }
 
-    override fun run() {
-
-    }
 }
 
 class CheckBox(
